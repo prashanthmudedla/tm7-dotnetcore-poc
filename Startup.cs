@@ -28,6 +28,9 @@ namespace DocumentsApi
         {
             services.AddScoped<DocumentService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            /*services.AddSwaggerGen();*/
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +48,8 @@ namespace DocumentsApi
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            /*app.UseSwagger();
+            app.UseSwaggerUI();*/
         }
     }
 }

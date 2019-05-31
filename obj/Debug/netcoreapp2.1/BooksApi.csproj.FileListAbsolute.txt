@@ -17,7 +17,6 @@ C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\bin\Debug\netcoreapp2.1\BooksApi
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\bin\Debug\netcoreapp2.1\BooksApi.runtimeconfig.dev.json
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\bin\Debug\netcoreapp2.1\BooksApi.dll
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\bin\Debug\netcoreapp2.1\BooksApi.pdb
-C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\obj\Debug\netcoreapp2.1\BooksApi.csprojAssemblyReference.cache
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\obj\Debug\netcoreapp2.1\BooksApi.csproj.CoreCompileInputs.cache
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cache
 C:\Users\tvUser\source\repos\tm7-dotnetcore-poc\obj\Debug\netcoreapp2.1\BooksApi.RazorAssemblyInfo.cs

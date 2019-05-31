@@ -12,7 +12,6 @@ namespace DocumentsApi.Services
 
         public DocumentService(IConfiguration config)
         {
-            //var client = new MongoClient(config.GetConnectionString("BookstoreDb"));
             var client = new MongoClient(config.GetConnectionString("ICDb")); 
             var database = client.GetDatabase("ICDb");
             _documents = database.GetCollection<Document>("Order");
