@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sources\\BooksApi\\BooksApi.csproj": {}
+    "C:\\Users\\tvUser\\source\\repos\\tm7-dotnetcore-poc\\BooksApi.csproj": {}
   },
   "projects": {
-    "C:\\sources\\BooksApi\\BooksApi.csproj": {
+    "C:\\Users\\tvUser\\source\\repos\\tm7-dotnetcore-poc\\BooksApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sources\\BooksApi\\BooksApi.csproj",
+        "projectUniqueName": "C:\\Users\\tvUser\\source\\repos\\tm7-dotnetcore-poc\\BooksApi.csproj",
         "projectName": "BooksApi",
-        "projectPath": "C:\\sources\\BooksApi\\BooksApi.csproj",
-        "packagesPath": "C:\\Users\\prash\\.nuget\\packages\\",
-        "outputPath": "C:\\sources\\BooksApi\\obj\\",
+        "projectPath": "C:\\Users\\tvUser\\source\\repos\\tm7-dotnetcore-poc\\BooksApi.csproj",
+        "packagesPath": "C:\\Users\\tvUser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tvUser\\source\\repos\\tm7-dotnetcore-poc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\prash\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tvUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +48,6 @@
               "autoReferenced": true
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
